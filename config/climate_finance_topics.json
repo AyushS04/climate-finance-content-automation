@@ -1,0 +1,74 @@
+{
+  "carbon_markets": {
+    "description": "Carbon credits, emissions trading systems, and offset mechanisms",
+    "keywords": ["carbon", "emissions", "trading", "offset", "ETS", "carbon credits", "market"],
+    "example_posts": [
+      "The carbon market just hit a new milestone with global turnover reaching $900B",
+      "Understanding Article 6 of the Paris Agreement: The key to international carbon trading",
+      "Why corporate carbon credit purchases are transforming climate action"
+    ]
+  },
+  "esg_investing": {
+    "description": "Environmental, Social, and Governance investment strategies",
+    "keywords": ["ESG", "sustainable", "investing", "impact", "SDG", "sustainable investing"],
+    "example_posts": [
+      "ESG funds now manage over $35 trillion globally - a paradigm shift in finance",
+      "Beyond ESG metrics: Why impact measurement matters more than ever",
+      "How investors are using ESG criteria to manage climate risk"
+    ]
+  },
+  "green_bonds": {
+    "description": "Bonds financing environmental and climate projects",
+    "keywords": ["green bond", "sustainable", "fixed income", "bond", "financing", "issuance"],
+    "example_posts": [
+      "Green bond issuance surged to $500B in 2023 - what's driving this growth?",
+      "The evolution of green bonds: From niche product to mainstream investment",
+      "Why companies are turning to green bonds for climate finance"
+    ]
+  },
+  "renewable_energy": {
+    "description": "Financing solar, wind, hydro, and other renewable energy projects",
+    "keywords": ["renewable", "solar", "wind", "hydro", "clean energy", "renewable energy"],
+    "example_posts": [
+      "Renewable energy attracted record $495B in investment last year",
+      "The economics of solar: Why renewable energy is now cheaper than fossil fuels",
+      "Investment opportunities in offshore wind: The next frontier"
+    ]
+  },
+  "net_zero": {
+    "description": "Net zero commitments, transition plans, and climate pathways",
+    "keywords": ["net zero", "decarbonization", "climate goals", "zero emissions", "carbon neutral"],
+    "example_posts": [
+      "1,500+ companies now committed to net zero - but implementation is key",
+      "The cost of achieving net zero: New analysis shows investment requirements",
+      "Science-based targets: How companies are building credible net zero pathways"
+    ]
+  },
+  "climate_risk": {
+    "description": "Physical and transition risks in financial portfolios",
+    "keywords": ["climate risk", "physical risk", "transition risk", "financial risk", "disclosure"],
+    "example_posts": [
+      "Climate risk disclosure requirements are reshaping corporate strategy",
+      "How banks are pricing climate risk into their lending decisions",
+      "The $23 trillion question: Are we prepared for climate financial risks?"
+    ]
+  },
+  "nature_based_solutions": {
+    "description": "Financing for conservation, restoration, and nature-based climate solutions",
+    "keywords": ["nature", "conservation", "biodiversity", "ecosystem", "restoration", "blue"],
+    "example_posts": [
+      "Nature-based solutions could provide 37% of climate mitigation needed",
+      "From conservation to finance: How biodiversity credits are emerging",
+      "Mangrove restoration: A nature-based solution with investment returns"
+    ]
+  },
+  "just_transition": {
+    "description": "Ensuring a fair transition away from fossil fuels",
+    "keywords": ["just transition", "coal", "workers", "communities", "equity", "fairness"],
+    "example_posts": [
+      "Just Transition Finance: Investing in workers and communities",
+      "How to ensure climate action doesn't leave communities behind",
+      "Coal worker retraining: The economic case for just transition investment"
+    ]
+  }
+}
